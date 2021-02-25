@@ -4,3 +4,4 @@
 <h1> Good job Thomas on learning Devops</h1>
 <h1> I can't wait to start making big $$$$ doing this</h1>
 <h2> Very soon everything is going to be better </h2>
+<h1> This line is for docker test </h1> 
